@@ -13,5 +13,5 @@ This repository presents the following approaches to extract features from satel
 2. **Place input image tiles into a directory.** please don't put the images tiles into any subdirectory.
 3. **Modify the `input_path` and `output_path` in the python script of each approach.** Let the `input_path` be the path to the directory containing input image tiles.
 
-<br>
-Some pre- and post-processing sample data is located in `/sample`; the python scripts and jupyter notebooks of each approach can be found in `/script`
+
+Some pre- and post-processing sample data is located in `/sample`; the python scripts and jupyter notebooks of each approach can be found in `/script`.
