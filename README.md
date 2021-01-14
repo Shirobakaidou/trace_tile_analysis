@@ -6,8 +6,9 @@ This repository presents the following approaches to extract features from satel
 2. __Ostu-Filter__: This is a built-in function of "cv2" package. (reference: https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_thresholding/py_thresholding.html#otsus-binarization) *It's noteworthy that "cv2" doesn't support georeferencing images.*
 
 <br>
-###Usage
-1. **Clone this repository to local.**
+### Usage
+<br>
+1. **Clone this repository to local**
 <br>
 2. **Place input image tiles into a directory.** please don't put the images tiles into any subdirectory.
 <br>
