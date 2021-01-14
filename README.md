@@ -9,7 +9,7 @@ This repository presents the following approaches to extract features from satel
 
 ### Usage
 
-1. **Clone this repository to local**
+1. **Clone this repository to local.**
 2. **Place input image tiles into a directory.** please don't put the images tiles into any subdirectory.
 3. **Modify the `input_path` and `output_path` in the python script of each approach.** Let the `input_path` be the path to the directory containing input image tiles.
 
